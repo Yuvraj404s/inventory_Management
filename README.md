@@ -31,7 +31,7 @@ An intuitive and responsive inventory management system built using React.js and
    git clone https://github.com/Yuvraj404s/inventory-management-system.git
 2. **Navigate to the project directory**:
     ```bash
-    cd inventory_Management
+    cd inventory_Management-main
 3.  **Install dependencies**:
     ```bash
     npm install
